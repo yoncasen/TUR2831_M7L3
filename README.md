@@ -26,4 +26,4 @@ pytest
 
 ## ✍️ Yazar
 
-Kodland - ibrahim was here :D
+Kodland - ibrahim was here :D   
